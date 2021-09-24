@@ -22,7 +22,7 @@ export default function Landing() {
           <div className="text-3xl lg:text-4xl mb-3">
             Hello!{' '}
             <span role="img" aria-label="wave">
-              👋
+              👋🙃
             </span>
           </div>
           <div className="text-4xl lg:text-6xl font-bold">
