@@ -24,7 +24,7 @@ export default function Landing() {
             <span role="img" aria-label="wave">
               👋
             </span>
-            <span role="img" aria-label="Upside down smiley">
+            <span role="img" aria-label="smiley">
               🙃
             </span> 
           </div>
