@@ -5,7 +5,7 @@ export default function About() {
         <div className="text-2xl font-medium text-red mb-3 lg:mb-0">ABOUT</div>
         <div className="lg:col-span-3 text-xl font-light xl:pr-36">
           <p className="mb-9">
-            Hey! I'm <span className="font-medium">A LOSER</span> - 
+            Hey! I'm <span className="font-medium">Jonathan</span> - 
           </p>
           <p>
             I like cars
